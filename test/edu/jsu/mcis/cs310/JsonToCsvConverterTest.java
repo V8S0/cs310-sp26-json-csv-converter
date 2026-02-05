@@ -1,5 +1,6 @@
 package edu.jsu.mcis.cs310;
 
+// All 4 tests passed successfully
 import com.github.cliftonlabs.json_simple.*;
 import org.junit.*;
 import static org.junit.Assert.*;
